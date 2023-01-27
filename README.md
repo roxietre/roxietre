@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roxietre" alt="roxietre" /></a> </p>
 
-- 🔭 I’m currently working on **learning web frontend and back dev**
+- 🔭 I’m currently working on **a dao discord bot**
 
-- 🌱 I’m currently learning **rust and anchor for some solana developement**
+- 🌱 I’m currently learning **rust and anchor for some rust**
 
 - 📫 How to reach me **auxietre.robin@gmail.com**
 
