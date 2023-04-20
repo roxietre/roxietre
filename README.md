@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a dao discord bot**
 
-- 🌱 I’m currently learning **rust and anchor for some rust**
+- 🌱 I’m currently learning **rust and anchor for some rusty protocol**
 
 - 📫 How to reach me **auxietre.robin@gmail.com**
 
